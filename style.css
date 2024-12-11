@@ -1,0 +1,51 @@
+body {
+    background-image: url(https://i2.wp.com/eko-miszmasz.pl/wp-content/uploads/2018/06/Co-to-jest-ekologia.jpg?fit=1280%2C853);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: 0;
+}
+
+#header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    background-color: rgba(128, 128, 128, 0.5);
+    font-size: 60px;
+    width: 100%;
+    height: 15%;
+}
+
+#header2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    font-size: 40px;
+    width: 100%;
+    height: 15%;
+}
+
+#left {
+    margin: 0;
+    font-size: 15px;
+    color: white;
+    background-color: rgba(128, 128, 128, 0.5);
+    height: 70%;
+    width: 30%;
+    position: fixed;
+    left: 18.5%;
+    bottom: 75px;
+}
+
+#right {
+    background-color: rgba(128, 128, 128, 0.5);
+    font-size: 11.75px;
+    color: white;
+    height: 70%;
+    width: 30%;
+    position: fixed;
+    right: 18.5%;
+    bottom: 75px;
+    
+}
